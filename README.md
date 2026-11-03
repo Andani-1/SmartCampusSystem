@@ -11,7 +11,7 @@ SQLite Database: Persistent Users, Campuses, Resources, and Bookings.
 Reporting: System operators are able to create cross-campus reports (most used resources, average booking durations)
 
 ## Technologies Used
-- **Python 3.13**
+- **Python 3.14**
 Tkinter (Graphical User Interface)
 - **SQLite3** (Database Management)
 
